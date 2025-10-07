@@ -1,2 +1,5 @@
 # Field-Oriented-Control-for-BLDC-motors
-Gained hands-on experience with brushless DC motor control by designing and implementing a control system to balance an inverted pendulum using a reaction wheel.
+
+
+▶️ [Watch the demo video](https://github.com/user-attachments/assets/b5cbf291-8e1d-44cc-8e0f-3ad114c7b1c7)
+

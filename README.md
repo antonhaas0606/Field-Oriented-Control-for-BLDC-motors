@@ -1,4 +1,4 @@
 # Field-Oriented-Control-for-BLDC-motors
 
-https://github.com/user-attachments/assets/87AFE7EE-3C39-4DB1-9CBB-CD75003D8B7D.mp4
+https://github.com/user-attachments/assets/b9b92d3e-67c8-4625-b716-adadbd85d784
 

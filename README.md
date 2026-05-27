@@ -6,8 +6,13 @@ https://github.com/user-attachments/assets/1e0964cc-aaa5-48fc-aaf7-70208950e4f5
 
 ## Control Theory Approaches
 I tried two separate approaches for the control system:
-### PID Control: Implemented the same type of PID system utilized in my previous project to handle feedback.
-### LQR Control: Attempted a Linear Quadratic Regulator (LQR) approach. This required modeling the physical parameters of the system, which I estimated using data and values derived from the CAD assembly.
+
+### PID Control: 
+Implemented the same type of PID system utilized in my previous robotics project.
+
+### LQR Control: 
+Attempted a Linear Quadratic Regulator (LQR) approach. This required modeling the physical parameters of the system, which I estimated using data and values derived from the CAD assembly.
+
 Note: I did not manage to get the LQR controller working, likely due to errors from estimated material properties and unverified motor specifications.
 
 ## Mechanical Design
